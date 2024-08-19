@@ -1,0 +1,6 @@
+@empTask_HostAddress = http://localhost:5078
+
+GET {{empTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
